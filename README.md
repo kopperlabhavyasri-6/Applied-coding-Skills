@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0344-reverse-string) |
 ## String
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0025-reverse-nodes-in-k-group) |
+| [0142-linked-list-cycle-ii](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0234-palindrome-linked-list) |
 ## Stack
@@ -45,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0023-merge-k-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0142-linked-list-cycle-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
