@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -54,8 +55,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0496-next-greater-element-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0142-linked-list-cycle-ii) |
+## Array
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
