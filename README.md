@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -64,8 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0496-next-greater-element-i) |
+| [0977-squares-of-a-sorted-array](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0496-next-greater-element-i) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
