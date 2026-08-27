@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0496-next-greater-element-i) |
+| [0704-binary-search](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Monotonic Stack
 |  |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0977-squares-of-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
