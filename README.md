@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
