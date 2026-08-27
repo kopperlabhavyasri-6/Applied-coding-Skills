@@ -1,5 +1,7 @@
 class Solution {
     public boolean isPalindrome(ListNode head) {
+
+        // 1. Find the middle
         ListNode slow = head;
         ListNode fast = head;
 
@@ -8,8 +10,10 @@ class Solution {
             fast = fast.next.next;
         }
 
+        // 2. Reverse the second half
         ListNode secondHalf = reverse(slow);
 
+        // 3. Compare both halves
         ListNode firstHalf = head;
 
         while (secondHalf != null) {
