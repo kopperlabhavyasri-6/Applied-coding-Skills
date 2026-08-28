@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0219-contains-duplicate-ii](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0496-next-greater-element-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0704-binary-search) |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0704-binary-search) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
