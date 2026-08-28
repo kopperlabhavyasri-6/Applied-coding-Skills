@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0234-palindrome-linked-list) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0496-next-greater-element-i) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -100,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
