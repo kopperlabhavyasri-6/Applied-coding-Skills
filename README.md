@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Quicksort
 |  |
 | ------- |
