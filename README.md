@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0496-next-greater-element-i) |
 ## Recursion
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0387-first-unique-character-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
