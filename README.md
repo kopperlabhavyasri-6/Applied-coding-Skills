@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0641-design-circular-deque](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0641-design-circular-deque) |
+| [0933-number-of-recent-calls](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Counting
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0232-implement-queue-using-stacks) |
 | [0641-design-circular-deque](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0641-design-circular-deque) |
+| [0933-number-of-recent-calls](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0933-number-of-recent-calls) |
 ## Simulation
 |  |
 | ------- |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0621-task-scheduler) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
