@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0621-task-scheduler) |
+| [1600-throne-inheritance](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1600-throne-inheritance) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0232-implement-queue-using-stacks) |
 | [0641-design-circular-deque](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0933-number-of-recent-calls) |
+| [1600-throne-inheritance](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1600-throne-inheritance) |
 ## Simulation
 |  |
 | ------- |
@@ -187,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0933-number-of-recent-calls) |
+## Tree
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1600-throne-inheritance) |
+## Depth-First Search
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1600-throne-inheritance) |
 <!---LeetCode Topics End-->
