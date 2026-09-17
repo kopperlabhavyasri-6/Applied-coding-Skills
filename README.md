@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0239-sliding-window-maximum) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0621-task-scheduler) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Merge Sort
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0283-move-zeroes) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0621-task-scheduler) |
 | [0641-design-circular-deque](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0641-design-circular-deque) |
