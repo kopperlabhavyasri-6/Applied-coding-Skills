@@ -197,9 +197,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0100-same-tree) |
 | [1600-throne-inheritance](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1600-throne-inheritance) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0100-same-tree) |
 | [1600-throne-inheritance](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1600-throne-inheritance) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
