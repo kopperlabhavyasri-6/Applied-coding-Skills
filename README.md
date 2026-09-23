@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Linked List
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0621-task-scheduler) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Design
 |  |
 | ------- |
