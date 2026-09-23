@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0144-binary-tree-preorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1600-throne-inheritance](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1600-throne-inheritance) |
 ## Depth-First Search
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0144-binary-tree-preorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1600-throne-inheritance](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1600-throne-inheritance) |
 ## Breadth-First Search
@@ -220,10 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0144-binary-tree-preorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Lifting
 |  |
