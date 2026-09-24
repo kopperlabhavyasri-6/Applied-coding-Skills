@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0997-find-the-town-judge) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0100-same-tree) |
+| [0994-rotting-oranges](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -266,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0997-find-the-town-judge](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1971-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
