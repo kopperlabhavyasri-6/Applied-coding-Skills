@@ -221,10 +221,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1600-throne-inheritance](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1600-throne-inheritance) |
+| [1971-find-if-path-exists-in-graph](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0100-same-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -253,4 +255,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
