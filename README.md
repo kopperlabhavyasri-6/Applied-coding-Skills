@@ -223,12 +223,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0547-number-of-provinces](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0547-number-of-provinces) |
 | [1600-throne-inheritance](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1600-throne-inheritance) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0100-same-tree) |
+| [0547-number-of-provinces](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -262,10 +264,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
