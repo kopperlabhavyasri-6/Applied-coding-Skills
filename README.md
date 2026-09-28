@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0946-validate-stack-sequences) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0997-find-the-town-judge) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Sorting
 |  |
 | ------- |
