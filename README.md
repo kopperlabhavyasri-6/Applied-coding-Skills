@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0232-implement-queue-using-stacks) |
@@ -291,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0695-max-area-of-island](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0994-rotting-oranges) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
