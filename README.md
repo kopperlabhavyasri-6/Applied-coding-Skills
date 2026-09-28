@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0946-validate-stack-sequences) |
 ## Recursion
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0901-online-stock-span) |
 ## Sorting
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0232-implement-queue-using-stacks) |
 | [0641-design-circular-deque](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0641-design-circular-deque) |
+| [0901-online-stock-span](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0933-number-of-recent-calls) |
 | [1600-throne-inheritance](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/1600-throne-inheritance) |
 ## Simulation
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/kopperlabhavyasri-6/Applied-coding-Skills/tree/master/0933-number-of-recent-calls) |
 ## Tree
 |  |
